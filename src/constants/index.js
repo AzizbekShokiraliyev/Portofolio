@@ -105,7 +105,7 @@ const experiences = [
 		company_name: 'SmartWare',
 		icon: tekisky,
 		iconBg: '#383E56',
-		date: 'Sep 2024 - July 2026',
+		date: 'Sep 2024 - July 2025',
 		points: [
 			'Designed and implemented responsive front-end interfaces for high-traffic web applications using HTML, CSS, and JavaScript, ensuring seamless user experiences across devices and browsers.',
 			'Collaborated with UX/UI designers and back-end engineers to translate business requirements into functional, high-performance digital products.',
